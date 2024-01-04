@@ -12,8 +12,9 @@ Large Video File Detection: Identifies video files larger than 1GB.
 
 ## Installation
 
-To use this script, you need Python installed on your system along with the PIL library for image processing. You can install PIL using pip:
-    ```bash
+To use this script, you need Python installed on your system along with the PIL library for image processing.
+To install Pillow, run the following command in your terminal:
+
     pip install Pillow
 
 ### Usage
